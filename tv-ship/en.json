@@ -1,0 +1,18 @@
+{
+    "subject": "Exchange TV Shipment for Your Philips TV Case Number: {SF_CASE_NO}",
+    "salutation": "Dear Valued Customer,",
+    "shipment_arranged": "We have arranged a TV shipment for you.",
+    "e-mail_receive": "You will soon receive an e-mail from our courier.",
+    "shipment_status": "You can track the shipping status at: {TRACKING_LINK}",
+    "case_number": "Your Philips TV Case number: {SF_CASE_NO}",
+    "shipment_details": "Shipment detail:",
+    "product_description": "Product Description: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Our internal reference number: {CUSTOMER_PO}",
+    "damaged_box": "If the replacement TV’s box is damaged, please do not accept the TV from the courier. If the damage to the package is only minor, you can accept the delivery, but please make sure to leave a comment about the damage on the delivery document.",
+    "contact": "If you have any questions, please get in touch with us via any of our {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "support channels",
+    "no_reply": "Please do not reply to this e-mail, as this is a no-reply e-mail.",
+    "best_regards": "Best Regards,",
+    "service": "Authorized Servicer of TP Vision for Philips TV",
+    "footer": "THIS IS AN AUTOMATED MESSAGE - PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL"
+}

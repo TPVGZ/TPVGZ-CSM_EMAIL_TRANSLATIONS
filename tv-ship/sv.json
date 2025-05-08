@@ -1,0 +1,18 @@
+{
+    "no_reply": "Vänligen svara inte på detta e-postmeddelande, eftersom det är ett e-postmeddelande utan svar.",
+    "best_regards": "Bästa hälsningar,",
+    "service": "Auktoriserad leverantör av TP Vision för Philips TV",
+    "footer": "DETTA ÄR ETT AUTOMATISERAT MEDDELANDE - SVARA INTE DIREKT PÅ DETTA E-POSTMEDDELANDE",
+    "subject": "Byt TV-sändning för din Philips TV Ärende nummer: {SF_CASE_NO}",
+    "salutation": "Kära värdefulla kund,",
+    "shipment_arranged": "Vi har ordnat en TV-leverans åt dig.",
+    "e-mail_receive": "Du kommer snart att få ett e-postmeddelande från vår kurir.",
+    "shipment_status": "Du kan spåra leveransstatusen på: {TRACKING_LINK}",
+    "case_number": "Din Philips TV Ärende nummer: {SF_CASE_NO}",
+    "shipment_details": "Försändelse detalj:",
+    "product_description": "Produktbeskrivning: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Vårt interna referensnummer: {CUSTOMER_PO}",
+    "damaged_box": "Om lådan till ersättnings-TV:n är skadad ska du inte ta emot TV:n från budfirman. Om skadan på paketet endast är mindre kan du acceptera leveransen, men se då till att lämna en kommentar om skadan på leveransdokumentet.",
+    "contact": "Om du har några frågor är du välkommen att kontakta oss via någon av våra {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "supportkanaler"
+}

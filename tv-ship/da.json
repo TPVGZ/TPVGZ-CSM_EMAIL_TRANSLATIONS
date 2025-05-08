@@ -1,0 +1,18 @@
+{
+    "subject": "Ombytning af tv-forsendelse til dit Philips-tv Sagsnummer: {SF_CASE_NO}",
+    "salutation": "Kære værdsatte kunde,",
+    "shipment_arranged": "Vi har arrangeret en tv-forsendelse til dig.",
+    "e-mail_receive": "Du vil snart modtage en e-mail fra vores kurer.",
+    "shipment_status": "Du kan spore forsendelsesstatus på: {TRACKING_LINK}",
+    "case_number": "Dit Philips TV Sagsnummer: {SF_CASE_NO}",
+    "shipment_details": "Forsendelsesdetaljer:",
+    "product_description": "Produktbeskrivelse: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Vores interne referencenummer: {CUSTOMER_PO}",
+    "damaged_box": "Hvis kassen til erstatnings-tv'et er beskadiget, må du ikke tage imod tv'et fra kureren. Hvis skaden på pakken kun er mindre, kan du acceptere leveringen, men sørg for at skrive en kommentar om skaden på leveringsdokumentet.",
+    "contact": "Hvis du har spørgsmål, er du velkommen til at kontakte os via en af vores {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "supportkanaler",
+    "no_reply": "Svar venligst ikke på denne e-mail, da den ikke må besvares.",
+    "best_regards": "Med venlig hilsen,",
+    "service": "Autoriseret serviceleverandør af TP Vision til Philips TV",
+    "footer": "DETTE ER EN AUTOMATISERET BESKED - SVAR VENLIGST IKKE DIREKTE PÅ DENNE E-MAIL"
+}

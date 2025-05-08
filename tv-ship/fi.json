@@ -1,0 +1,18 @@
+{
+    "salutation": "Hyvä arvostettu asiakas,",
+    "shipment_arranged": "Olemme järjestäneet televisiosi lähettämisen sinulle.",
+    "e-mail_receive": "Saat pian sähköpostiviestin kuriiriltämme.",
+    "shipment_status": "Voit seurata toimituksen tilaa osoitteessa: {TRACKING_LINK}",
+    "case_number": "Philips TV:n tapausnumero: {SF_CASE_NO}",
+    "shipment_details": "Lähetyksen yksityiskohdat:",
+    "product_description": "Tuotteen kuvaus: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Sisäinen viitenumeromme: {CUSTOMER_PO}",
+    "damaged_box": "Jos korvaavan television laatikko on vaurioitunut, älä ota televisiota vastaan kuriirilta. Jos paketin vauriot ovat vain vähäisiä, voit ottaa toimituksen vastaan, mutta jätä kuitenkin huomautus vaurioista lähetysasiakirjaan.",
+    "contact": "Jos sinulla on kysyttävää, ota meihin yhteyttä minkä tahansa {SUPPORT_CHANNELS_LINK} kautta.",
+    "no_reply": "Älä vastaa tähän sähköpostiviestiin, sillä siihen ei saa vastata.",
+    "best_regards": "Ystävällisin terveisin,",
+    "service": "Valtuutettu palveluntarjoaja TP Vision for Philips TV:lle",
+    "footer": "TÄMÄ ON AUTOMAATTINEN VIESTI - ÄLÄ VASTAA SUORAAN TÄHÄN SÄHKÖPOSTIIN",
+    "subject": "Vaihtotelevisiolähetys Philips TV:lle Tapausnumero: {SF_CASE_NO}",
+    "support_channels": "tukikanavamme"
+}

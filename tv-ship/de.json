@@ -1,0 +1,18 @@
+{
+    "subject": "Austausch-TV-Sendung für Ihr Philips TV-Gerät Fallnummer: {SF_CASE_NO}",
+    "salutation": "Lieber geschätzter Kunde,",
+    "shipment_arranged": "Wir haben den Versand Ihres Fernsehers an Sie veranlasst.",
+    "e-mail_receive": "Sie werden in Kürze eine E-Mail von unserem Kurier erhalten.",
+    "shipment_status": "Sie können den Versandstatus unter: {TRACKING_LINK}",
+    "case_number": "Ihr Philips Fernsehgerät Gehäusenummer: {SF_CASE_NO}",
+    "shipment_details": "Einzelheiten der Sendung:",
+    "product_description": "Beschreibung des Produkts: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Unsere interne Referenznummer: {CUSTOMER_PO}",
+    "damaged_box": "Wenn der Karton des Ersatzfernsehers beschädigt ist, nehmen Sie den Fernseher bitte nicht vom Kurier an. Wenn das Paket nur geringfügig beschädigt ist, können Sie die Lieferung annehmen, aber bitte vermerken Sie den Schaden auf dem Lieferschein.",
+    "contact": "Wenn Sie Fragen haben, wenden Sie sich bitte über einen unserer {SUPPORT_CHANNELS_LINK} an uns.",
+    "support_channels": "Support-Kanäle",
+    "no_reply": "Bitte antworten Sie nicht auf diese E-Mail, da dies eine E-Mail ohne Antwort ist.",
+    "best_regards": "Mit freundlichen Grüßen,",
+    "service": "Autorisierter Serviceanbieter von TP Vision für Philips TV",
+    "footer": "DIES IST EINE AUTOMATISCHE NACHRICHT - BITTE ANTWORTEN SIE NICHT DIREKT AUF DIESE E-MAIL"
+}

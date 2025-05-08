@@ -1,0 +1,18 @@
+{
+    "contact": "Si vous avez des questions, n'hésitez pas à nous contacter via l'un de nos {SUPPORT_CHANNELS_LINK}.",
+    "no_reply": "Ne répondez pas à cet e-mail, car il s'agit d'un e-mail de non-réponse.",
+    "best_regards": "Nous vous prions d'agréer, Madame, Monsieur, l'expression de nos salutations distinguées,",
+    "service": "Réparateur agréé de TP Vision pour Philips TV",
+    "footer": "CECI EST UN MESSAGE AUTOMATISÉ - VEUILLEZ NE PAS RÉPONDRE DIRECTEMENT À CET E-MAIL",
+    "subject": "Échangez l'envoi de votre téléviseur contre le numéro de dossier de votre téléviseur Philips : {SF_CASE_NO}",
+    "salutation": "Cher client,",
+    "shipment_arranged": "Nous avons organisé pour vous l'expédition de votre téléviseur.",
+    "e-mail_receive": "Vous recevrez bientôt un e-mail de notre coursier.",
+    "shipment_status": "Vous pouvez suivre l'état de l'expédition à l'aide de ce lien : {TRACKING_LINK}",
+    "case_number": "Votre numéro de dossier Philips TV : {SF_CASE_NO}",
+    "shipment_details": "Détails de l'envoi :",
+    "product_description": "Description du produit : {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Notre numéro de référence interne : {CUSTOMER_PO}",
+    "damaged_box": "Si l'emballage du téléviseur de remplacement est endommagé, veuillez ne pas accepter le téléviseur de la part du transporteur. Si le colis n'est que légèrement endommagé, vous pouvez accepter la livraison, mais veillez à laisser un commentaire sur les dommages à l'aide du document de livraison.",
+    "support_channels": "canaux d'assistance"
+}

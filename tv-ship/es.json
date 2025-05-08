@@ -1,0 +1,18 @@
+{
+    "salutation": "Estimado cliente,",
+    "shipment_arranged": "Hemos organizado el envío del TV para usted.",
+    "e-mail_receive": "Pronto recibirá un correo electrónico de nuestra empresa de mensajería.",
+    "case_number": "Número de caja de su televisor Philips: {SF_CASE_NO}",
+    "shipment_details": "Detalle del envío:",
+    "product_description": "Descripción del producto: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Nuestro número de referencia interno: {CUSTOMER_PO}",
+    "subject": "Envío de intercambio de televisores con el número de caja de su televisor Philips: {SF_CASE_NO}",
+    "contact": "Si tiene alguna pregunta, póngase en contacto con nosotros a través de cualquiera de nuestros {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "Canales de soporte",
+    "best_regards": "Saludos",
+    "service": "Servicio técnico autorizado de TP Vision para televisores Philips",
+    "footer": "ESTE ES UN MENSAJE AUTOMATIZADO: POR FAVOR, NO RESPONDA DIRECTAMENTE A ESTE CORREO ELECTRÓNICO",
+    "shipment_status": "Puede seguir el estado del envío en: {TRACKING_LINK}",
+    "damaged_box": "Si la caja del televisor de reemplazo está dañada, no acepte el televisor por parte del mensajero. Si el daño del paquete es menor, puede aceptar la entrega, pero asegúrese de dejar un comentario sobre el daño en el documento de entrega.",
+    "no_reply": "Por favor, no responda a este correo electrónico, ya que este es un correo electrónico sin respuesta."
+}

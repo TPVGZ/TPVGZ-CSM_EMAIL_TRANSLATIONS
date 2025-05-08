@@ -1,0 +1,18 @@
+{
+    "subject": "Wysyłka zarezerwowanego telewizora Philips. Numer sprawy: {SF_CASE_NO}",
+    "shipment_arranged": "Zorganizowaliśmy dla Ciebie wysyłkę telewizora.",
+    "salutation": "Szanowny Kliencie,",
+    "e-mail_receive": "Wkrótce otrzymasz wiadomość e-mail od naszego kuriera.",
+    "shipment_status": "Wysyłkę można śledzić za pomocą tego linku: {TRACKING_LINK}",
+    "case_number": "Twój numer sprawy Philips TV: {SF_CASE_NO}",
+    "shipment_details": "Szczegóły wysyłki:",
+    "product_description": "Opis produktu: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Nasz wewnętrzny numer referencyjny: {CUSTOMER_PO}",
+    "damaged_box": "Jeśli opakowanie telewizora zastępczego jest uszkodzone, nie należy przyjmować telewizora od kuriera. Jeśli uszkodzenie paczki jest niewielkie, możesz przyjąć przesyłkę, ale pamiętaj, aby zostawić komentarz o uszkodzeniu na dokumencie dostawy.",
+    "contact": "Jeżeli masz jakieś pytania, skontaktuj się z nami tradycyjnymi {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "kanałami komunikacyjnymi",
+    "no_reply": "Wiadomość została wygenerowana automatycznie, prosimy na nią nie odpowiadać.",
+    "best_regards": "Z wyrazami szacunku,",
+    "service": "Autoryzowany serwis TP Vision dla telewizorów Philips",
+    "footer": "TO JEST WIADOMOŚĆ AUTOMATYCZNA - NIE ODPOWIADAJ BEZPOŚREDNIO NA TEN E-MAIL"
+}

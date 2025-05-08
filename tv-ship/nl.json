@@ -1,0 +1,18 @@
+{
+    "damaged_box": "Als de doos van de vervangende tv beschadigd is, neem de tv dan niet aan van de koerier. Als de schade aan het pakket klein is, kunt u de levering accepteren, maar zorg er dan wel voor dat u een opmerking over de schade achterlaat op het leveringsdocument.",
+    "contact": "Als u nog vragen heeft, neem dan contact met ons op via een van onze {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "ondersteuningskanalen",
+    "no_reply": "Beantwoord deze e-mail niet, want dit is een automatische e-mail.",
+    "best_regards": "Met vriendelijke groet,",
+    "service": "Geautoriseerde leverancier van TP Vision voor Philips TV",
+    "footer": "DIT IS EEN AUTOMATISCH BERICHT - ANTWOORD NIET DIRECT OP DEZE E-MAIL",
+    "subject": "TV-ruilartikel voor uw Philips TV Zaaknummer: {SF_CASE_NO}",
+    "salutation": "Geachte klant,",
+    "shipment_arranged": "Wij hebben een TV voor u besteld.",
+    "e-mail_receive": "U zult binnenkort een e-mail ontvangen van onze koerier.",
+    "shipment_status": "U kunt de verzendstatus volgen op: {TRACKING_LINK}",
+    "case_number": "Uw Philips TV Zaaknummer: {SF_CASE_NO}",
+    "shipment_details": "Verzendgegevens:",
+    "product_description": "Productbeschrijving: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Ons intern referentienummer: {CUSTOMER_PO}"
+}
