@@ -1,0 +1,14 @@
+{
+    "subject": "Ophaalregeling voor uw Philips TV Zaaknummer: {SF_CASE_NO}",
+    "salutation": "Geachte klant,",
+    "arranged": "Wij hebben geregeld dat uw defecte tv bij u wordt opgehaald. De ophaaldatum staat als “Verzenddatum” op het adreslabel in de bijlage van deze e-mail.",
+    "pack": "Verpak het defecte product goed om een veilig transport te garanderen. Een verpakkingsinstructie is bijgevoegd voor uw referentie.",
+    "shipment_status": "U kunt de pick-up volgen op {TRACKING_LINK}.",
+    "case_number": "Het zaaknummer van uw Philips TV: {SF_CASE_NO}",
+    "contact": "Als u nog vragen hebt, neem dan contact met ons op via een van onze {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "ondersteuningskanalen",
+    "no_reply": "Beantwoord deze e-mail niet, want dit is een automatische e-mail.",
+    "best_regards": "Met vriendelijke groet,",
+    "service": "Erkend leverancier van TP Vision voor Philips TV",
+    "footer": "DIT IS EEN AUTOMATISCH BERICHT - ANTWOORD NIET DIRECT OP DEZE E-MAIL"
+}

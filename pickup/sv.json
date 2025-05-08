@@ -1,0 +1,14 @@
+{
+    "pack": "Förpacka den defekta produkten ordentligt för att garantera en säker transport. En förpackningsinstruktion bifogas för din referens.",
+    "best_regards": "Bästa hälsningar,",
+    "footer": "DETTA ÄR ETT AUTOMATISERAT MEDDELANDE - SVARA INTE DIREKT PÅ DETTA E-POSTMEDDELANDE",
+    "subject": "Upphämtningsarrangemang för din Philips TV Case Number: {SF_CASE_NO}",
+    "salutation": "Kära värdefulla kund,",
+    "arranged": "Vi har ordnat en upphämtning av din defekta TV från dig. Hämtningsdatumet visas som \"Leveransdatum\" på adressetiketten som bifogas i detta e-postmeddelande.",
+    "shipment_status": "Du kan spåra upphämtningen på {TRACKING_LINK}.",
+    "case_number": "Din Philips TV Ärende nummer: {SF_CASE_NO}",
+    "contact": "Om du har några frågor är du välkommen att kontakta oss via någon av våra {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "supportkanaler",
+    "no_reply": "Vänligen svara inte på detta e-postmeddelande, eftersom det är ett e-postmeddelande utan svar.",
+    "service": "Auktoriserad leverantör av TP Vision för Philips TV"
+}

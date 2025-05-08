@@ -1,0 +1,14 @@
+{
+    "subject": "Noutojärjestely Philips TV:lle Tapausnumero: {SF_CASE_NO}",
+    "salutation": "Hyvä arvostettu asiakas,",
+    "arranged": "Olemme sopineet viallisen televisiosi noutamisesta sinulta. Noutopäivämäärä on merkitty tämän sähköpostin liitteenä olevaan osoitetarraan merkinnällä \"Lähetyspäivä\".",
+    "shipment_status": "Voit seurata noutoa osoitteessa {TRACKING_LINK}.",
+    "case_number": "Philips TV:n tapausnumero: {SF_CASE_NO}",
+    "contact": "Jos sinulla on kysyttävää, ota meihin yhteyttä minkä tahansa {SUPPORT_CHANNELS_LINK} kautta.",
+    "support_channels": "tukikanavamme",
+    "no_reply": "Älä vastaa tähän sähköpostiviestiin, sillä siihen ei saa vastata.",
+    "best_regards": "Ystävällisin terveisin,",
+    "service": "Valtuutettu palveluntarjoaja TP Vision for Philips TV:lle",
+    "footer": "TÄMÄ ON AUTOMAATTINEN VIESTI - ÄLÄ VASTAA SUORAAN TÄHÄN SÄHKÖPOSTIIN",
+    "pack": "Pakkaa viallinen tuote turvallisesti, jotta kuljetus on turvallista. Pakkausohjeet ovat liitteenä."
+}

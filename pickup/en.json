@@ -1,0 +1,14 @@
+{
+    "subject": "Pick-Up arrangement for your Philips TV Case Number: {SF_CASE_NO}",
+    "salutation": "Dear Valued Customer,",
+    "arranged": "We have arranged a pick-up of your defective TV from you. The pick-up date is shown as “Shipping Date” in the Address Label which is attached in this email.",
+    "pack": "Please pack the defective product securely to ensure safe transport. A packing instruction is attached for your reference.",
+    "shipment_status": "You can track the pick up at {TRACKING_LINK}.",
+    "case_number": "Your Philips TV Case Number: {SF_CASE_NO}",
+    "contact": "If you have any questions, please get in touch with us via any of our {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "support channels",
+    "no_reply": "Please do not reply to this e-mail, as this is a no-reply e-mail.",
+    "best_regards": "Best Regards,",
+    "service": "Authorized Servicer of TP Vision for Philips TV",
+    "footer": "THIS IS AN AUTOMATED MESSAGE - PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL"
+}

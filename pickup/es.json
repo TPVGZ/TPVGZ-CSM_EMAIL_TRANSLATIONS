@@ -1,0 +1,14 @@
+{
+    "contact": "Si tiene alguna pregunta, póngase en contacto con nosotros vía {SUPPORT_CHANNELS_LINK}.",
+    "salutation": "Estimado cliente,",
+    "pack": "Empaque el producto defectuoso de forma segura para garantizar un transporte seguro. Se adjunta una instrucción de embalaje para su referencia.",
+    "shipment_status": "PPuede realizar un seguimiento de la recogida en {TRACKING_LINK}.",
+    "support_channels": "Canales de soporte",
+    "no_reply": "Por favor, no responda a este correo electrónico, ya que este es un correo electrónico sin respuesta.",
+    "best_regards": "Saludos",
+    "service": "Servicio técnico autorizado de TP Vision para televisores Philips",
+    "footer": "ESTE ES UN MENSAJE AUTOMATIZADO: POR FAVOR, NO RESPONDA DIRECTAMENTE A ESTE CORREO ELECTRÓNICO",
+    "case_number": "Número de caja de su televisor Philips: {SF_CASE_NO}",
+    "subject": "Organización de recogida para su televisor Philips Número de caja: {SF_CASE_NO}",
+    "arranged": "Hemos organizado la recogida de su televisor defectuoso. La fecha de recogida aparece como \"Fecha de envío\" en la etiqueta de dirección que se adjunta en este correo electrónico."
+}

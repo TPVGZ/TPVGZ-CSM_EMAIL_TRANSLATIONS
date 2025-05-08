@@ -1,0 +1,14 @@
+{
+    "subject": "Organizacja odbioru dla twojego telewizora Philips. Numer sprawy: {SF_CASE_NO}",
+    "pack": "Prosimy o bezpieczne zapakowanie uszkodzonego produktu zgodnie z załączoną instrukcją.",
+    "no_reply": "Wiadomość została wygenerowana automatycznie, prosimy na nią nie odpowiadać.",
+    "salutation": "Szanowny Kliencie,",
+    "arranged": "Przygotowaliśmy odbiór twojego uszkodzonego telewizora. Data odbioru widoczna jest jako “Shipping Date” w etykiecie adresowej która jest dołączona do tego emaila.",
+    "shipment_status": "Odbiór można śledzić za pomocą tego linku {TRACKING_LINK}.",
+    "case_number": "Twój numer sprawy Philips TV: {SF_CASE_NO}",
+    "contact": "Jeżeli masz jakieś pytania, skontaktuj się z nami tradycyjnymi {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "kanałami komunikacyjnymi",
+    "best_regards": "Z wyrazami szacunku,",
+    "service": "Autoryzowany serwis TP Vision dla telewizorów Philips",
+    "footer": "TO JEST WIADOMOŚĆ AUTOMATYCZNA - NIE ODPOWIADAJ BEZPOŚREDNIO NA TEN E-MAIL"
+}

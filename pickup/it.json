@@ -1,0 +1,14 @@
+{
+    "subject": "Disposizione per il ritiro del televisore Philips Numero di pratica: {SF_CASE_NO}",
+    "salutation": "Gentile cliente,",
+    "arranged": "Abbiamo organizzato il ritiro del televisore difettoso. La data di ritiro è indicata come \"Data di spedizione\" nell'etichetta dell'indirizzo allegata a questa e-mail.",
+    "shipment_status": "È possibile rintracciare il ritiro a {TRACKING_LINK}.",
+    "contact": "In caso di domande, contattateci tramite uno dei nostri {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "canali di assistenza",
+    "best_regards": "Cordiali saluti,",
+    "service": "Servicer autorizzato di TP Vision per Philips TV",
+    "footer": "QUESTO È UN MESSAGGIO AUTOMATICO - SI PREGA DI NON RISPONDERE DIRETTAMENTE A QUESTA E-MAIL",
+    "pack": "Si prega di imballare saldamente il prodotto difettoso per garantire un trasporto sicuro. In allegato sono riportate le istruzioni per l'imballaggio.",
+    "case_number": "Numero di caso del televisore Philips: {SF_CASE_NO}",
+    "no_reply": "Si prega di non rispondere a questo messaggio di posta elettronica, in quanto si tratta di un messaggio di posta elettronica senza risposta."
+}

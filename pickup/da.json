@@ -1,0 +1,14 @@
+{
+    "subject": "Aftale om afhentning af dit Philips TV Sagsnummer: {SF_CASE_NO}",
+    "salutation": "Kære værdsatte kunde,",
+    "arranged": "Vi har arrangeret en afhentning af dit defekte tv hos dig. Afhentningsdatoen er vist som \"Forsendelsesdato\" på adresselabelen, som er vedhæftet i denne e-mail.",
+    "pack": "Pak venligst det defekte produkt forsvarligt ind for at sikre en sikker transport. Der er vedlagt en pakkevejledning til din reference.",
+    "shipment_status": "Du kan spore afhentningen på {TRACKING_LINK}.",
+    "case_number": "Dit Philips TV-sagsnummer: {SF_CASE_NO}",
+    "contact": "Hvis du har spørgsmål, er du velkommen til at kontakte os via en af vores {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "supportkanaler",
+    "no_reply": "Svar venligst ikke på denne e-mail, da den ikke må besvares.",
+    "best_regards": "Med venlig hilsen,",
+    "service": "Autoriseret serviceleverandør af TP Vision til Philips TV",
+    "footer": "DETTE ER EN AUTOMATISERET BESKED - SVAR VENLIGST IKKE DIREKTE PÅ DENNE E-MAIL"
+}

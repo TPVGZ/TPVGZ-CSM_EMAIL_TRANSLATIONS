@@ -1,0 +1,14 @@
+{
+    "subject": "Modalités de retrait de votre téléviseur Philips Numéro de dossier : {SF_CASE_NO}",
+    "salutation": "Cher client,",
+    "arranged": "Nous avons organisé l'enlèvement de votre téléviseur défectueux. La date d'enlèvement est indiquée comme \"Date d'expédition\" sur l'étiquette d'adresse jointe à cet e-mail.",
+    "shipment_status": "Vous pouvez suivre l'enlèvement à l'adresse {TRACKING_LINK}.",
+    "case_number": "Numéro de dossier de votre téléviseur Philips : {SF_CASE_NO}",
+    "contact": "Si vous avez des questions, n'hésitez pas à nous contacter via l'un de nos {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "canaux d'assistance",
+    "no_reply": "Ne répondez pas à cet e-mail, car il s'agit d'un e-mail de non-réponse.",
+    "best_regards": "Nous vous prions d'agréer, Madame, Monsieur, l'expression de nos salutations distinguées,",
+    "service": "Réparateur agréé TP Vision pour les téléviseurs Philips",
+    "footer": "CECI EST UN MESSAGE AUTOMATISÉ - VEUILLEZ NE PAS RÉPONDRE DIRECTEMENT À CET E-MAIL",
+    "pack": "Veuillez emballer le produit défectueux de manière sécurisée afin d'assurer un transport en toute sécurité. Vous trouverez ci-joint des instructions d'emballage à titre de référence."
+}

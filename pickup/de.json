@@ -1,0 +1,14 @@
+{
+    "subject": "Abholservice für Ihren Philips TV Fallnummer: {SF_CASE_NO}",
+    "salutation": "Lieber geschätzter Kunde,",
+    "pack": "Bitte verpacken Sie das defekte Produkt sicher, um einen sicheren Transport zu gewährleisten. Eine Verpackungsanleitung ist zu Ihrer Information beigefügt.",
+    "shipment_status": "Sie können die Abholung unter {TRACKING_LINK} verfolgen.",
+    "case_number": "Ihre Philips TV-Fallnummer: {SF_CASE_NO}",
+    "contact": "Wenn Sie Fragen haben, wenden Sie sich bitte über einen unserer {SUPPORT_CHANNELS_LINK} an uns.",
+    "support_channels": "Support-Kanäle",
+    "best_regards": "Mit freundlichen Grüßen,",
+    "service": "Autorisierter Serviceanbieter von TP Vision für Philips TV",
+    "footer": "DIES IST EINE AUTOMATISCHE NACHRICHT - BITTE ANTWORTEN SIE NICHT DIREKT AUF DIESE E-MAIL",
+    "arranged": "Wir haben eine Abholung Ihres defekten Fernsehers bei Ihnen vereinbart. Das Abholdatum ist als \"Versanddatum\" auf dem Adressaufkleber angegeben, der dieser E-Mail beigefügt ist.",
+    "no_reply": "Bitte antworten Sie nicht auf diese E-Mail, da es sich um eine E-Mail ohne Antwort handelt."
+}
