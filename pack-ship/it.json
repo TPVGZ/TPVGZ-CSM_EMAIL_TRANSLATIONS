@@ -1,0 +1,18 @@
+{
+    "subject": "Scatola di imballaggio Spedizione per il televisore Philips Numero di caso: {SF_CASE_NO}",
+    "salutation": "Gentile cliente,",
+    "shipment_arranged": "Abbiamo organizzato per voi la spedizione di una scatola d'imballaggio.",
+    "e-mail_receive": "Riceverete presto un'e-mail dal nostro corriere.",
+    "shipment_status": "È possibile seguire lo stato di spedizione all'indirizzo {TRACKING_LINK}.",
+    "case_number": "Il vostro TV Philips Numero di caso: {SF_CASE_NO}",
+    "shipment_details": "Dettaglio della spedizione:",
+    "product_description": "Descrizione del prodotto: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Il nostro numero di riferimento interno: {CUSTOMER_PO}",
+    "pickup_arrangement": "Dopo aver ricevuto la scatola di imballaggio, si prega di imballare il televisore difettoso e di contattarci tramite i nostri {SUPPORT_CHANNELS_LINK} per organizzare il ritiro.",
+    "contact": "Per qualsiasi domanda, contattateci tramite uno dei nostri {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "canali di assistenza",
+    "no_reply": "Si prega di non rispondere a questo messaggio di posta elettronica, in quanto si tratta di un messaggio di posta elettronica senza risposta.",
+    "best_regards": "Cordiali saluti,",
+    "service": "Fornitore autorizzato di TP Vision per Philips TV",
+    "footer": "QUESTO È UN MESSAGGIO AUTOMATICO - SI PREGA DI NON RISPONDERE DIRETTAMENTE A QUESTA E-MAIL"
+}

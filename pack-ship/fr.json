@@ -1,0 +1,18 @@
+{
+    "subject": "Emballage pour l'expédition de votre téléviseur Philips Numéro de dossier : {SF_CASE_NO}",
+    "salutation": "Cher client,",
+    "shipment_arranged": "Nous avons pris des dispositions pour vous envoyer une boîte d'emballage.",
+    "e-mail_receive": "Vous recevrez bientôt un e-mail de notre coursier.",
+    "shipment_status": "Vous pouvez suivre l'état de l'expédition en suivant le lien suivant {TRACKING_LINK}.",
+    "case_number": "Numéro de suivi de votre téléviseur Philips : {SF_CASE_NO}",
+    "shipment_details": "Détails de l'envoi :",
+    "product_description": "Description du produit : {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Notre numéro de référence interne : {CUSTOMER_PO}",
+    "pickup_arrangement": "Après avoir reçu la boîte d'emballage, veuillez empaqueter votre téléviseur défectueux et nous contacter par l'intermédiaire de nos {SUPPORT_CHANNELS_LINK} pour organiser l'enlèvement.",
+    "contact": "Si vous avez des questions, n'hésitez pas à nous contacter via l'un de nos {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "canaux d'assistance",
+    "no_reply": "Veuillez ne pas répondre à cet e-mail, car il s'agit d'un e-mail de non-réponse.",
+    "best_regards": "Nous vous prions d'agréer, Madame, Monsieur, l'expression de nos salutations distinguées,",
+    "service": "Réparateur agréé TP Vision pour les téléviseurs Philips",
+    "footer": "CECI EST UN MESSAGE AUTOMATISÉ - VEUILLEZ NE PAS RÉPONDRE DIRECTEMENT À CET E-MAIL"
+}

@@ -1,0 +1,18 @@
+{
+    "subject": "Emballagekasse Forsendelse til dit Philips TV Sagsnummer: {SF_CASE_NO}",
+    "salutation": "Kære værdifulde kunde,",
+    "shipment_arranged": "Vi har arrangeret en Packaging Box-forsendelse til dig.",
+    "e-mail_receive": "Du vil snart modtage en e-mail fra vores kurer.",
+    "shipment_status": "Du kan spore forsendelsesstatus på: {TRACKING_LINK}.",
+    "case_number": "Dit Philips TV Sagsnummer: {SF_CASE_NO}",
+    "shipment_details": "Forsendelsesdetaljer:",
+    "product_description": "Produktbeskrivelse: {PART_NO} [{PART_DESC}]",
+    "service": "Autoriseret serviceleverandør af TP Vision til Philips TV",
+    "footer": "DETTE ER EN AUTOMATISK BESKED - SVAR VENLIGST IKKE DIREKTE PÅ DENNE E-MAIL",
+    "internal_reference": "Vores interne referencenummer: {CUSTOMER_PO}",
+    "pickup_arrangement": "Når du har modtaget emballagekassen, bedes du pakke dit defekte tv og kontakte os via vores {SUPPORT_CHANNELS_LINK} for at aftale afhentning.",
+    "contact": "Hvis du har spørgsmål, er du velkommen til at kontakte os via en af vores {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "supportkanaler",
+    "no_reply": "Svar venligst ikke på denne e-mail, da det er en no-reply e-mail.",
+    "best_regards": "Med venlig hilsen,"
+}

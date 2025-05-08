@@ -1,0 +1,18 @@
+{
+    "subject": "Verpackung Box Versand für Ihr Philips TV Fallnummer: {SF_CASE_NO}",
+    "salutation": "Lieber geschätzter Kunde,",
+    "shipment_arranged": "Wir haben eine Verpackungsbox für Sie zusammengestellt.",
+    "e-mail_receive": "Sie werden in Kürze eine E-Mail von unserem Kurier erhalten.",
+    "shipment_status": "Sie können den Versandstatus unter {TRACKING_LINK} verfolgen.",
+    "case_number": "Ihr Philips Fernsehgerät Gehäusenummer: {SF_CASE_NO}",
+    "shipment_details": "Einzelheiten der Sendung:",
+    "product_description": "Beschreibung des Produkts: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Unsere interne Referenznummer: {CUSTOMER_PO}",
+    "pickup_arrangement": "Nachdem Sie den Verpackungskarton erhalten haben, verpacken Sie bitte Ihren defekten Fernseher und kontaktieren Sie uns über unsere {SUPPORT_CHANNELS_LINK}, um die Abholung zu vereinbaren.",
+    "contact": "Wenn Sie Fragen haben, wenden Sie sich bitte über einen unserer {SUPPORT_CHANNELS_LINK} an uns.",
+    "support_channels": "Support-Kanäle",
+    "no_reply": "Bitte antworten Sie nicht auf diese E-Mail, da es sich um eine E-Mail ohne Antwort handelt.",
+    "best_regards": "Mit freundlichen Grüßen,",
+    "service": "Autorisierter Serviceanbieter von TP Vision für Philips TV",
+    "footer": "DIES IST EINE AUTOMATISCHE NACHRICHT - BITTE ANTWORTEN SIE NICHT DIREKT AUF DIESE E-MAIL"
+}

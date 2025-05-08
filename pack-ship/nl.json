@@ -1,0 +1,18 @@
+{
+    "subject": "Doosverpakking Verzending voor uw Philips TV Koffernummer: {SF_CASE_NO}",
+    "salutation": "Geachte klant,",
+    "shipment_arranged": "Wij hebben een verpakkingsdoos voor je geregeld.",
+    "e-mail_receive": "U zult binnenkort een e-mail ontvangen van onze koerier.",
+    "shipment_status": "U kunt de verzendstatus volgen op {TRACKING_LINK}.",
+    "case_number": "Uw Philips TV Zaaknummer: {SF_CASE_NO}",
+    "shipment_details": "Verzendgegevens:",
+    "product_description": "productomschrijving: {PART_NO} [{PART_DESC}]",
+    "internal_reference": "Onze interne referentienummer: {CUSTOMER_PO}",
+    "pickup_arrangement": "Nadat u de doos heeft ontvangen, kunt u uw defecte tv inpakken en contact met ons opnemen via onze {SUPPORT_CHANNELS_LINK} voor de afhaalregeling.",
+    "contact": "Als u vragen heeft, neem dan contact met ons op via een van onze {SUPPORT_CHANNELS_LINK}.",
+    "support_channels": "ondersteuningskanalen",
+    "best_regards": "Met vriendelijke groet,",
+    "no_reply": "Beantwoord deze e-mail niet, want dit is een automatische e-mail.",
+    "service": "Geautoriseerde leverancier van TP Vision voor Philips TV",
+    "footer": "DIT IS EEN AUTOMATISCH BERICHT - ANTWOORD NIET DIRECT OP DEZE E-MAIL"
+}
